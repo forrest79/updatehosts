@@ -22,14 +22,14 @@ HISTORY
 2.0.0 [2012-02-17] - Code refactoring, more hostnames can be processed at once, test hostnames...
 
 
-LICENSE
-=======
-UpdateHosts is distributed under BSD license. See license.txt.
-
-
 REQUIREMENTS
 ============
 You need .NET Framework 2 to run this application (http://www.microsoft.com/downloads/details.aspx?familyid=0856eacb-4362-4b0d-8edd-aab15c5e04f5&displaylang=en).
+
+
+LICENSE
+=======
+UpdateHosts is distributed under BSD license. See license.txt.
 
 
 https://github.com/forrest79/updatehosts
