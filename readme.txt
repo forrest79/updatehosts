@@ -11,7 +11,7 @@ updhosts settings ip hostname1 [hostname2 .. hostnameN] [--comment|-c comment]
 Settings: --help, -h       show this help
           --add, -a        add new host
           --remove, -r     remove host
-					--test, -t       test if host exists
+          --test, -t       test if host exists
 
 Note: comment is used only while adding new host
 
