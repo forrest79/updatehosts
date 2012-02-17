@@ -7,11 +7,11 @@ using System.Resources;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UpdateHosts")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Update Windows hosts file.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Forrest79.net")]
 [assembly: AssemblyProduct("UpdateHosts")]
-[assembly: AssemblyCopyright("Copyright © Forrest79.net 2009")]
+[assembly: AssemblyCopyright("Copyright © Forrest79.net 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,6 +33,6 @@ using System.Resources;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.1.0")]
-[assembly: AssemblyFileVersion("1.0.1.0")]
-[assembly: NeutralResourcesLanguageAttribute("")]
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyFileVersion("2.0.0.0")]
+[assembly: NeutralResourcesLanguageAttribute("en")]

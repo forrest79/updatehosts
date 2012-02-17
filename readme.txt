@@ -1,23 +1,35 @@
-UpdateHosts v1.0
-================
+UpdateHosts © Jakub Trmota, 2012 (http://forrest79.net)
 
-This is small utility for add/remove hosts to Windows 95/98/ME/2000/XP/VISTA hosts files written in C#.
-You need .NET Framework 2 to run this application (http://www.microsoft.com/downloads/details.aspx?familyid=0856eacb-4362-4b0d-8edd-aab15c5e04f5&displaylang=en).
 
-How to use:
+Small utility for add/remove/test host in hosts file written in C# for Windows 95/98/ME/2000/XP/VISTA.
+
+
+HOW TO USE:
 ===========
-updhosts [settings] ip host_name [comment]
+updhosts settings ip hostname1 [hostname2 .. hostnameN] [--comment|-c comment]
 
-Settings: --help -h       show help
-          --add -a        add new host
-          --remove -r     remove host
-          
+Settings: --help, -h       show this help
+          --add, -a        add new host
+          --remove, -r     remove host
+					--test, -t       test if host exists
+
 Note: comment is used only while adding new host
 
-Info:
-=====
-If you have any questions or find a bug, please contact me at info@forrest79.net or http://forrest79.net.
 
-History:
-========
+HISTORY
+=======
 1.0.0 [2009-02-04] - Firest public version
+2.0.0 [2012-02-17] - Code refactoring, more hostnames can be processed at once, test hostnames...
+
+
+LICENSE
+=======
+UpdateHosts is distributed under BSD license. See license.txt.
+
+
+REQUIREMENTS
+============
+You need .NET Framework 2 to run this application (http://www.microsoft.com/downloads/details.aspx?familyid=0856eacb-4362-4b0d-8edd-aab15c5e04f5&displaylang=en).
+
+
+https://github.com/forrest79/updatehosts
