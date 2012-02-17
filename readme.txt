@@ -1,7 +1,7 @@
 UpdateHosts © Jakub Trmota, 2012 (http://forrest79.net)
 
 
-Small utility for add/remove/test host in hosts file written in C# for Windows 95/98/ME/2000/XP/VISTA.
+Small utility for add/remove/test host in hosts file written in C# for Windows 95/98/ME/2000/XP/VISTA/7.
 
 
 HOW TO USE:
