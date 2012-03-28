@@ -18,7 +18,7 @@ Note: comment is used only while adding new host
 
 HISTORY
 =======
-1.0.0 [2009-02-04] - Firest public version
+1.0.0 [2009-02-04] - First public version
 2.0.0 [2012-02-17] - Code refactoring, more hostnames can be processed at once, test hostnames...
 
 
